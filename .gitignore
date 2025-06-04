@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### MySQL ###
-/auth_back/src/main/resources/application.properties
+auth_back/src/main/resources/application.properties
 
