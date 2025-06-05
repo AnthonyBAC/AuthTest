@@ -2,4 +2,4 @@
 
 ---
 
-![alt text](image.png)
+![alt text](/auth_front/public/image.png)
