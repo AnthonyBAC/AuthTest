@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "daisyui"; // 
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', monospace;
+}
+
+html,
+body {
+    background-color: #f2f2f2;
+}
+
+h1,
+input {
+    color: #333;
+}
